@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Elvis Bwakyanirya
+- 👋 Hi, I’m @ElvisBwakyanirya
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ...
 
 <!---
-Elvis Bwakyaniryais a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ElvisBwakyaniryais a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
